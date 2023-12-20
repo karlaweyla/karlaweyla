@@ -9,7 +9,7 @@ Atualmente estou estudando e criando projetos com HTML, CSS e inciando aprendiza
 - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" heidht="30px" width="50px"/>
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo" heidht="30px" width="50px"/>
 <br>
-<br>
+
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=karlaweyla&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=karlaweyla&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -18,7 +18,6 @@ Atualmente estou estudando e criando projetos com HTML, CSS e inciando aprendiza
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlaweyla&layout=compact)
 <br>
-
 <br>
 
 :purple_heart:
