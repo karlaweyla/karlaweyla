@@ -14,9 +14,7 @@ Atualmente estou estudando e criando projetos com HTML, CSS e inciando aprendiza
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=karlaweyla&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=karlaweyla&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlaweyla&layout=compact)
 <br>
 <br>
 
